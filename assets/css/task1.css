@@ -1,0 +1,75 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.blueContainer {
+  background-color: rgb(7, 111, 222);
+  width: 90%;
+  height: 100vh;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.whiteContainer {
+  width: 50%;
+  height: 80%;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.ghostContainer {
+  width: 90%;
+  padding: 30px 0;
+  margin: auto;
+}
+
+.inputsContainer {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.inputsContainer input {
+  padding: 10px 10px;
+}
+
+.inputsContainer input:first-child {
+  border-color: blue;
+  border-radius: 5px;
+  width: 85%;
+  outline-color: blue;
+}
+
+.inputsContainer input:last-child {
+  border-radius: 5px;
+  background-color: blue;
+  width: 13%;
+  color: white;
+}
+
+.toDoContainer {
+  width: 100%;
+  padding-top: 80px;
+}
+
+#to-do {
+  background-color: lightskyblue;
+  border: 2px solid grey;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#to-do a {
+  color: white;
+  padding: 10px 15px;
+  background-color: blue;
+  border-radius: 5px;
+}
