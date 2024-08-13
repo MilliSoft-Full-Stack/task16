@@ -8,4 +8,4 @@ https://millisoft-full-stack.github.io/task16/
 
 target:
 
-https://drive.google.com/file/d/11Enfdq2BRZW5nUlXIwfbhOXmps3UtplU/view
+https://drive.google.com/file/d/1m4UUGuLAZWcURHZ56PMkVxYD_1nhY4d1/view

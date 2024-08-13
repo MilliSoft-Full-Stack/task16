@@ -19,11 +19,14 @@ ul{
 }
 
 footer {
+    width: 100%;
     position: fixed;
     bottom: 0;
-    margin-left: 620px;
     margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
 }
+
 
 button {
     height: 50px;
